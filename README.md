@@ -7,10 +7,11 @@ Gonzalo Argüello
 
 ## Notebooks
 ### Entregable 1:
-https://github.com/concientizardiplo/mentogrupo2/blob/main/Mentorias_2022_M17_Grupo2_Entregable_1.ipynb
+https://github.com/concientizardiplo/mentogrupo2/blob/8bd87fbacd534e93a4b0c99a262813a7bd61313e/003_GA_EDA_Industrial.ipynb
+
 
 ### Entregable 2:
-https://github.com/concientizardiplo/mentogrupo2/blob/8bd87fbacd534e93a4b0c99a262813a7bd61313e/003_GA_EDA_Industrial.ipynb
+https://github.com/concientizardiplo/mentogrupo2/blob/cfe37bd9402ac59cc29867983a37066bef5ca5a8/001_GA_Curacion_1_Mes_Industrial.ipynb
 https://github.com/concientizardiplo/mentogrupo2/blob/8bd87fbacd534e93a4b0c99a262813a7bd61313e/001_GA_EDA_SMN.ipynb
 
 ## Videos
