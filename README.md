@@ -18,7 +18,7 @@ https://github.com/concientizardiplo/mentogrupo2/blob/main/Tercer_Entrega_Series
 
 ### Entregable 4:
 https://github.com/concientizardiplo/mentogrupo2/blob/main/Cuarta_Entrega_No_Supervisado.ipynb
-
+https://github.com/concientizardiplo/mentogrupo2/blob/main/dataframe_unido_interpolado_mentoria.zip
 
 ## Videos
 Link del video de la primera entrega con explicación: https://www.youtube.com/watch?v=9QGW7K5su48
