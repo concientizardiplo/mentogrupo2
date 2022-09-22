@@ -15,6 +15,8 @@ https://github.com/concientizardiplo/mentogrupo2/blob/8bd87fbacd534e93a4b0c99a26
 
 ### Entregable 3:
 https://github.com/concientizardiplo/mentogrupo2/blob/main/Tercer_Entrega_Series_De_Tiempo(Supervisado).ipynb
+https://github.com/concientizardiplo/mentogrupo2/blob/main/file_2021-01_a_2022-04_resumen.zip
+https://github.com/concientizardiplo/mentogrupo2/blob/main/registro_temperaturas_smn.csv
 
 ### Entregable 4:
 https://github.com/concientizardiplo/mentogrupo2/blob/main/Cuarta_Entrega_No_Supervisado.ipynb
